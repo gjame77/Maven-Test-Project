@@ -3,7 +3,7 @@
 <html>
 <meta charset="UTF-8">
 <body>
-    <h2>Hello, JunyHarang!!</h2>
+    <h2>Hello, james^^~!</h2>
     <hr>
     <h2>It's working on Tomcat server</h2>
     <hr>
