@@ -3,7 +3,7 @@
 <html>
 <meta charset="UTF-8">
 <body>
-    <h2>CICD 연습중 입니다.^^~!</h2>
+    <h2>CICD Testing ~^^~!</h2>
     <hr>
     <h2>It's working on Tomcat server</h2>
     <hr>
