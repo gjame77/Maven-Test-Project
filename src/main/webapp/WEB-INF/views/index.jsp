@@ -3,7 +3,7 @@
 <html>
 <meta charset="UTF-8">
 <body>
-    <h2>CICD-3</h2>
+    <h2> CI Testing </h2>
     <hr>
     <h2>It's working on Tomcat server</h2>
     <hr>
