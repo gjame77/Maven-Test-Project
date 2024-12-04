@@ -5,7 +5,7 @@
 <body>
     <h2> CI Testing-6 </h2>
     <hr>
-    <h2>It's working on Tomcat server</h2>
+    <h2>It's working on Tomcat server-Test2</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
